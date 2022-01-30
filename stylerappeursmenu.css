@@ -1,0 +1,176 @@
+@media screen and (min-width: 300px) and (max-width: 373px){
+    nav a{
+        display:block;
+        font-size: 22px;}
+    li a{
+        padding: 7px;}}
+
+@media screen and (min-width: 374px) and (max-width: 375px){
+    nav a{
+        display:block;
+        font-size: 29px;}
+    li a{
+        padding: 8px;}}
+
+@media screen and (min-width: 376px) and (max-width: 412px){
+    nav a{
+        display:block;
+        font-size: 25px;}
+    li a{
+        padding: 10px;}}
+
+@media screen and (min-width: 413px) and (max-width: 414px){
+    nav a{
+        display:block;
+        font-size: 34px;}
+    li a{
+        padding: 10px;}}
+
+@media screen and (min-width: 546px) and (max-width: 767px){
+    nav a{
+        display:inline-block;
+        font-size: 50px;}
+    li a{
+        padding: 20px;}}
+    
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    nav a{
+        display:inline-block;
+        font-size: 40px;}
+    li a{
+        padding: 20px;}}
+    
+@media screen and (min-width: 1024px) and (max-width: 3044px){
+    nav a{
+        display:inline-block;
+        font-size: 55px;}
+    li a{
+        padding: 25px;}}
+    
+@media screen and (min-width: 3045px) and (max-width: 5044px){
+    nav a{
+        display:inline-block;
+        font-size: 70px;}
+    li a{
+        padding: 10px;}}
+
+
+
+@media screen and (max-width: 340px){
+    img{
+        width: 300px;}}
+@media screen and (min-width: 341px) and (max-width: 374px){
+    img{
+        width: 160px;}}
+@media screen and (min-width: 375px) and (max-width: 376px){
+    img{
+        width: 175px;}}
+@media screen and (min-width: 377px) and (max-width: 400px){
+    img{
+        width: 160px;}}
+@media screen and (min-width: 401px) and (max-width: 450px){
+    img{
+        width: 180px;}}
+@media screen and (min-width: 401px) and (max-width: 413px){
+    img{
+        width: 180px;}}
+@media screen and (min-width: 414px) and (max-width: 415px){
+    img{
+        width: 195px;}}
+@media screen and (min-width: 416px) and (max-width: 500px){
+    img{
+        width: 197px;}}
+@media screen and (min-width: 501px) and (max-width: 580px){
+    img{
+        width: 230px;}}
+@media screen and (min-width: 581px) and (max-width: 644px){
+    img{
+        width: 270px;}}
+@media screen and (min-width: 645px) and (max-width: 700px){
+    img{
+        width: 200px;}}
+@media screen and (min-width: 701px) and (max-width: 767px){
+    img{
+        width: 220px;}}
+@media screen and (min-width: 768px) and (max-width: 769px){
+    img{
+        width: 240px;}}
+@media screen and (min-width: 770px) and (max-width: 784px){
+    img{
+        width: 220px;}}
+@media screen and (min-width: 785px) and (max-width: 850px){
+    img{
+        width: 250px;}}
+@media screen and (min-width: 785px) and (max-width: 850px){
+    img{
+        width: 250px;}}
+@media screen and (min-width: 851px) and (max-width: 900px){
+    img{
+        width: 250px;}}
+@media screen and (min-width: 901px) and (max-width: 950px){
+    img{
+        width: 280px;}}
+@media screen and (min-width: 951px) and (max-width: 1023px){
+    img{
+        width: 290px;}}
+@media screen and (min-width: 1024px) and (max-width: 1150px){
+    img{
+        width: 320px;}}
+@media screen and (min-width: 1151px) and (max-width: 1350px){
+    img{
+        width: 360px;}}
+@media screen and (min-width: 1351px) and (max-width: 2000px){
+    img{
+        width: 400px;}}
+@media screen and (min-width: 2001px) and (max-width: 2500px){
+    img{
+        width: 420px;}}
+@media screen and (min-width: 2501px) and (max-width: 2790px){
+    img{
+        width: 500px;}}
+@media screen and (min-width: 2791px) and (max-width: 3500px){
+    img{
+        width: 500px;}}
+
+
+nav 
+{
+    width: 100%;
+    padding: 0; margin: 0;
+	text-align: center;
+    display: inline;
+}
+nav a
+{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    
+}
+nav li
+{
+    width: 100%;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+    display: inline;
+	list-style: none;
+    list-style: none;
+}
+nav ul
+{
+    
+    list-style-type: none;
+    border-radius:10px;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+    background: white;   
+}
+div
+{
+    text-align: center;
+}
+img
+{
+    float: inherit;
+    border-radius: 5%;
+}
